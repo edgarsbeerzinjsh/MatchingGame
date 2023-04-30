@@ -1,3 +1,3 @@
 # MatchingGame
 
-Standart matching game.
+Matching game.
